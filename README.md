@@ -47,11 +47,18 @@
 
 ## Output:
 # Support Removal Process
-![image](https://github.com/user-attachments/assets/3e75cafe-48db-4547-8698-012a5afd77ed)
+![WhatsApp Image 2024-11-23 at 10 54 34_72f1b071](https://github.com/user-attachments/assets/96828c78-8d44-4ab8-9d5e-23d8eebd92eb)
+![WhatsApp Image 2024-11-23 at 10 54 32_d518f3c8](https://github.com/user-attachments/assets/b6499f85-0dd2-4fe8-a019-f37631f4f6b2)
+
+
 # UV Curing of 3D printed part
-![image](https://github.com/user-attachments/assets/c139de86-b125-4c9f-8abe-df0abc47e2e2)
+![WhatsApp Image 2024-11-23 at 10 54 32_4a15de2f](https://github.com/user-attachments/assets/120ecedb-6435-414b-aba3-25493ad1cc64)
+
+![WhatsApp Image 2024-11-23 at 10 54 33_8887bb25](https://github.com/user-attachments/assets/eb895877-88d5-483b-a6bd-1dbae62ae01d)
+
 # Heat Treatment of 3D printed part
-![image](https://github.com/user-attachments/assets/b26026a1-3dc2-4626-bb87-2920f0cb4de6)
+![WhatsApp Image 2024-11-23 at 10 54 33_eb5c0a34](https://github.com/user-attachments/assets/4548a47d-9be2-4647-b564-5bc1cbdb0ebb)
+![WhatsApp Image 2024-11-23 at 10 54 33_da8dfb82](https://github.com/user-attachments/assets/483c36b1-ee55-4058-91ee-f1a81b6be70f)
 
 
 ### Name: VISHAL S
