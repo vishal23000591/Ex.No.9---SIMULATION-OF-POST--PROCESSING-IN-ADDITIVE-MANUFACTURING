@@ -1,7 +1,7 @@
-# Ex.No.9 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No:6.2  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 26.10.2024
-
+### DATE: 06/11/24
+a
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 
@@ -32,8 +32,6 @@
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## OUTPUT :
-![image](https://github.com/d-kavinraja/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119875375/b453edcf-a3fb-4e97-bf89-be172773d6d0)
-
 
 ## Support Removal Process
 ![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
@@ -48,10 +46,16 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-![image](https://github.com/d-kavinraja/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119875375/56c4e9e7-f8e7-48d4-9ea9-c376ab87f384)
+# Support Removal Process
+![image](https://github.com/user-attachments/assets/3e75cafe-48db-4547-8698-012a5afd77ed)
+# UV Curing of 3D printed part
+![image](https://github.com/user-attachments/assets/c139de86-b125-4c9f-8abe-df0abc47e2e2)
+# Heat Treatment of 3D printed part
+![image](https://github.com/user-attachments/assets/b26026a1-3dc2-4626-bb87-2920f0cb4de6)
+
 
 ### Name: VISHAL S
 ### Register Number: 212223110063
 
 ## Result: 
-### Thus the simulation on the Postprocessing in additive manufacturing is completed.
+ ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
